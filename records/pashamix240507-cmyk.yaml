@@ -1,0 +1,4 @@
+subdomain: pashamix240507-cmyk
+type: CNAME
+target: pashamix240507-cmyk.github.io
+repository: https://github.com/pashamix240507-cmyk/my-first-page
