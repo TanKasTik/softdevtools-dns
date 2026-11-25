@@ -1,0 +1,4 @@
+subdomain: sasha-sapozhnikov
+type: CNAME
+target: sasha7348744-ctrl.github.io
+repository: https://github.com/sasha7348744-ctrl/my-first-page
