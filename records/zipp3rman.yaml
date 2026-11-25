@@ -1,0 +1,4 @@
+subdomain: zipp3rman
+type: CNAME
+target: zipp3rman.github.io
+repository: https://github.com/ZIPp3rMan/lab05-pages
