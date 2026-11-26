@@ -1,0 +1,4 @@
+subdomain: golitsyn-nikita
+type: CNAME
+target: golitsyn21.github.io
+repository: https://github.com/Golitsyn21/nikita-golitsyn

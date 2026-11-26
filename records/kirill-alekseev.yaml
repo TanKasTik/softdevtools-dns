@@ -1,0 +1,4 @@
+subdomain: kirill-alekseev
+type: CNAME
+target: amerikaevropa.github.io
+repository: https://github.com/AmerikaEvropa/lab05-page

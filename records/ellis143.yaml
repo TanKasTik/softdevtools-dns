@@ -1,0 +1,4 @@
+subdomain: ellis143
+type: CNAME
+target: ellis143.github.io
+repository: https://github.com/Ellis143/lab05-pages

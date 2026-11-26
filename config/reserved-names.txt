@@ -2,6 +2,7 @@
 admin
 api
 dns
+lab12
 mail
 ns1
 ns2
